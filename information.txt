@@ -1,0 +1,11 @@
+Useful resources for the Turing tech stack tests 
+and 
+Turing live coding challenge:
+Coursera – https://www.coursera.org/learn/algorithmic-thinking-1
+Hackerrank – https://hackerrank.com/
+Codility – https://app.codility.com/demo/take-sample-test/
+Khan Acadamy – https://www.khanacademy.org/computing/computer-science/algorithms
+Data structures and algorithms – https://leetcode.com
+System Design – https://github.com/donnemartin/system-design-primer
+OOP &amp; Design Patterns – https://www.youtube.com/playlist?list=PLF206E906175C7E07
+Git – https://git-scm.com/book/en/v2
